@@ -14,9 +14,6 @@
   <img align="center" alt="Rafa-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
-![Pak (1)](https://github.com/zPookiePie/zPookiePie/assets/163327581/091cf193-d85d-451b-8434-c5968656344c)
-
 </div>
 
 #
@@ -24,5 +21,3 @@
   <a href="https://www.linkedin.com/in/agata-rafaela" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "agatadevv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
- ![Pak (1)](https://github.com/zPookiePie/zPookiePie/assets/163327581/30ecc280-9796-480d-b4c9-af92972d9aa4)
