@@ -1,8 +1,7 @@
 ## Oii! Eu sou a Ágata Rafaela, uma programadora front-end júnior 🩵
 
-<a href="https://github.com/zpookiepie/github-readme-stats">
-  <img height=155em align="center" src="https://github-readme-stats.vercel.app/api?username=zpookiepie&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=catppuccin_latte" />
-</a>
+<div>
+  <img height=155em align="center" src="https://github-readme-stats.vercel.app/api?username=zpookiepie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_latte&locale=en&hide_border=false" height="150" alt="stats graph"  />
 <a href="https://github.com/zpookiepie/convoychat">
   <img height=155em align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zpookiepie&repo=github-readme-stats&cache_seconds=86400&theme=catppuccin_latte" />
 </a>
