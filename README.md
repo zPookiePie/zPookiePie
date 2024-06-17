@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
+  <img align="right" alt="gif-cina" height="60" width="60" scr="![gif cinnamoroll](https://github.com/zPookiePie/style/blob/main/Pak.gif)">
 </div>
 
 #
@@ -23,3 +23,4 @@
   <a href = "agatadevv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
  
+![gif cinnamoroll](https://github.com/zPookiePie/style/blob/main/Pak.gif)
