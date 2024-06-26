@@ -18,6 +18,6 @@
 
 #
 <div>
-  <a href="https://www.linkedin.com/in/agata-rafaela" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="50"></a> 
+  <a href="https://www.linkedin.com/in/agata-rafaela-ab1006227" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="50"></a> 
   <a href = "agatadevv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="50"></a>
 </div>
