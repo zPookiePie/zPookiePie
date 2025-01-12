@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fdcde6&width=435&lines=Hi%2C+everyone!+I'm+Ágata+Rafaela.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FDCDE6&width=435&lines=Hi%2C+everyone!+I'm+%C3%81gata+Rafaela.;I'm+a+junior+front-end+developer.;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
-<img src="https://github.com/user-attachments/assets/5ecd38fe-e52e-4b0a-a454-6e828c71a6d6" alt="pixel art" align="right" width="300">
+<img src="https://github.com/user-attachments/assets/5ecd38fe-e52e-4b0a-a454-6e828c71a6d6" alt="pixel art" align="right" width="270">
 
-### Languages and tools:
+### 📍 Languages and tools:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cris-Js" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-Python" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br>
 
-### GitHub Stats
+### 📈 GitHub Stats
 #
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/anacristinaneves">
@@ -24,7 +24,7 @@
   </a>
 </div>
     
-### Contact
+### 📩 Contact
 
 <div>
   <a href="https://www.linkedin.com/in/agata-rafaela-ab1006227" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="40"></a> 
