@@ -20,7 +20,7 @@
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/zpookiepie">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=zPookiePie&show_icons=true&title_color=fdcde6&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zPookiePie&layout=compact&title_color=fdcde6&langs_count=7&theme=dracula"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zPookiePie&layout=compact&title_color=fdcde6&langs_count=8&theme=dracula"/>
   </a>
 </div>
     
