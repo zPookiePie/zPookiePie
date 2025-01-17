@@ -1,10 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FDCDE6&width=435&lines=Hi%2C+everyone!+I'm+%C3%81gata+Rafaela.;I'm+a+junior+front-end+developer.;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
-<img src="https://github.com/user-attachments/assets/5ecd38fe-e52e-4b0a-a454-6e828c71a6d6" alt="pixel art" align="right" width="270">
+<img src="https://github.com/user-attachments/assets/5ecd38fe-e52e-4b0a-a454-6e828c71a6d6" alt="pixel art" align="right" width="300">
 
-### 📍 Languages and tools:
-
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  
+  <h3> 📍 Languages and tools: </h3>
+  <br>
   <img align="center" alt="Cris-Js" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Cris-HTML" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
