@@ -5,8 +5,8 @@
     <h3> 👩‍💻 Um pouco sobre mim</h3>
     <p> 🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas </p>
     <p> ⚡ Aspirante a Desenvolvedora Front-end, com interesse em Full-Stack futuramente </p>
-    <p> 🎯 Focada em HTML, CSS/SCSS, JavaScript e aprendendo React no momento </p>
-    <p> 🌸 Criando projetos para aprimorar minhas habilidades e compartilhar minha jornada </p>
+    <p> 🎯 Focada em HTML, CSS/SCSS, JavaScript e aprendendo React com Next.js no momento </p>
+    <p> 🌸 Criando projetos para aprimorar minhas habilidades e compartilhar minha jornada! </p>
 </div>
 
 #
