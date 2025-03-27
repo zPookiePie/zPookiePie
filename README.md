@@ -12,7 +12,7 @@
 #
 <div style="display: inline_block" align="center" >
   
-  <h3> 📍 Linguagens e Tecnologias: </h3>
+  <h3> 🛠️ Linguagens e Tecnologias: </h3>
   <br>
   
   <img align="center" alt="Cris-Js" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,7 +27,7 @@
 
 </div><br>
 
-### 📈 Meu Status Github
+### 📈 Estatísticas do GitHub
 #
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/zpookiepie">
@@ -36,7 +36,7 @@
   </a>
 </div>
     
-### 📩 Contato
+### 📩 Conecte-se comigo
 
 <div>
   <a href="https://www.linkedin.com/in/agata-rafaela28/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="40"></a> 
