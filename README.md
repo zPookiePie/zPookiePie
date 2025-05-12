@@ -1,18 +1,31 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FDCDE6&width=435&lines=Hi%2C+everyone!+I'm+%C3%81gata+Rafaela.;I'm+a+junior+front-end+developer.;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+<p align="center">
+  <img 
+    src="https://i.pinimg.com/originals/e5/bd/3a/e5bd3a2f2cf2f6f4dad0f531b92564be.gif" 
+    alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" 
+   width="585"
+/>
+</p>
 
-<img src="https://github.com/user-attachments/assets/768e3133-8c6e-4967-bb8c-044208b2c2dd" alt="pixel art" align="right" width="350">
-<div>
-    <h3> 👩‍💻 Um pouco sobre mim</h3>
-    <p> 🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas </p>
-    <p> ⚡ Aspirante a Desenvolvedora Front-end, com interesse em Full-Stack futuramente </p>
-    <p> 🎯 Focada em HTML, CSS/SCSS, JavaScript e estudando React com Next.js no momento </p>
-    <p> 🌸 Criando projetos para aprimorar minhas habilidades e compartilhar minha jornada! </p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FDCDE6&width=435&lines=Hi%2C+everyone!+I'm+%C3%81gata+Rafaela.;I'm+a+junior+front-end+developer.;Welcome+to+my+Github+profile!" 
+      alt="Typing SVG"
+/>
+  </a>
 </div>
+<h2 align="center"> 👩‍💻 Um pouco sobre mim</h2>
 
-#
+<p align="center">
+    🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas</br>
+    ⚡ Aspirante a Desenvolvedora Front-end, com interesse em Full-Stack futuramente</br>
+    🎯 Focada em HTML, CSS/SCSS, JavaScript e estudando React com Next.js no momento</br>
+    🌸 Criando projetos para aprimorar minhas habilidades e compartilhar minha jornada!</br>
+<p>
+
 <div style="display: inline_block" align="center" >
   
-  <h3> 🛠️ Linguagens e Tecnologias: </h3>
+  <h2 align="center"> 🛠️ Linguagens e Tecnologias: </h2>
   <br>
   
   <img align="center" alt="Cris-Js" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,8 +40,8 @@
 
 </div><br>
 
-### 📈 Estatísticas do GitHub
-#
+
+<h2 align="center"> 📈 Estatísticas do GitHub</h2>
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/zpookiepie">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=zPookiePie&show_icons=true&title_color=fdcde6&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -36,9 +49,9 @@
   </a>
 </div>
     
-### 📩 Conecte-se comigo
+<h2 align="center"> 📩 Conecte-se comigo</h2>
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/agata-rafaela28/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="40"></a> 
   <a href = "agatadevv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="40"></a>
 </div>
