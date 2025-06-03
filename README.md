@@ -19,7 +19,7 @@
 <p align="center">
     🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas</br>
     ⚡ Aspirante a Desenvolvedora Front-end, com interesse em Full-Stack futuramente</br>
-    🎯 Focada em HTML, CSS/SCSS, JavaScript e estudando React com Next.js no momento</br>
+    🎯 Focada em HTML, CSS/SCSS, JavaScript e aprendendo React e Angular no momento</br>
     🌸 Criando projetos para aprimorar minhas habilidades e compartilhar minha jornada!</br>
 <p>
 
